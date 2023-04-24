@@ -3,7 +3,7 @@
     "amd64",
     "aarch64"
   ],
-  "codenotary": "alexandrep.github@gmail.com",
+  "codenotary": "alan.janke@gmail.com",
   "description": "manage your personal workouts, weight and diet plans",
   "image": "ghcr.io/alexbelgium/wger-{arch}",
   "map": [
@@ -25,7 +25,7 @@
     "CONFIG_LOCATION": "str"
   },
   "slug": "wger",
-  "url": "https://github.com/alexbelgium/hassio-addons",
+  "url": "https://github.com/canberratinkerer/home-assistant-alexbelgium-hassio-addons",
   "version": "2.2-dev-5",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]"
 }
