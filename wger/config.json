@@ -12,6 +12,9 @@
     "ssl:ro"
   ],
   "name": "Wger",
+  "environment": {
+    "CSRF_TRUSTED_ORIGINS": "https://wger.bilbybase.duckdns.org"
+  },
   "options": {
     "CONFIG_LOCATION": "/config/addons_config/wger/config.yaml"
   },
