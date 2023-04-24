@@ -29,6 +29,6 @@
   },
   "slug": "wger",
   "url": "https://github.com/canberratinkerer/home-assistant-alexbelgium-hassio-addons",
-  "version": "2.2-dev-5",
+  "version": "2.2-dev-6",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]"
 }
