@@ -1,3 +1,6 @@
+### 2.2-dev-6 (26-04-2023)
+- personalising for AJ environment
+
 ### 2.2-dev-5 (11-03-2023)
 - Bug updates
 - Implement healthcheck
